@@ -1,4 +1,4 @@
-com.ni.vision
+edu.wpi.cscore
 edu.wpi.first.wpilibj
 edu.wpi.first.wpilibj.buttons
 edu.wpi.first.wpilibj.can
@@ -6,7 +6,6 @@ edu.wpi.first.wpilibj.command
 edu.wpi.first.wpilibj.communication
 edu.wpi.first.wpilibj.filters
 edu.wpi.first.wpilibj.hal
-edu.wpi.first.wpilibj.image
 edu.wpi.first.wpilibj.interfaces
 edu.wpi.first.wpilibj.internal
 edu.wpi.first.wpilibj.livewindow
